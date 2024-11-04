@@ -1,2 +1,2 @@
-# operating-systems-labs
-Repository for University labs of the OS subject
+# cxx-template-earthly-clang
+Template for C++ projects
